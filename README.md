@@ -1,1 +1,1 @@
-# Electroic-Measuring-Instruments
+# Electronic-Measuring-Instruments
